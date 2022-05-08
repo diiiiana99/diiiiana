@@ -3,7 +3,7 @@ Hey there, I'm Dianna!
 
 I'm a Software Engineer Currently Looking For Employment Opportunities
 
-LinkedIn Badge  
+<img src="{https://cdn-icons-png.flaticon.com/512/61/61109.png}" /> or 
  
  https://www.linkedin.com/in/dianna-ganova-529295189/
 
