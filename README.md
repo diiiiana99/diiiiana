@@ -1,3 +1,4 @@
+<img src="https://avatars.githubusercontent.com/u/93669061?s=400&u=5b10c72c436a41aade40f495476cfb46e312fc7f&v=4" alt="typescript" width="80" height="80"/>
 <h1 align="center">My Name is Dianna Ganiva</h1>
 <h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
 
@@ -19,7 +20,7 @@
 
 - 💬 Ask me about **JavaScript, React.js, Ruby, Rails, SQL**
 
-- ☀️ More: **When I'm not coding, I'm either playing tennis as I am ex pro 🎾 , doing cardio or intervals 🏃🏼‍♀️, or shopping.**
+- ☀️ More: **When I'm not coding, I'm either playing tennis as I am ex pro 🎾 , doing cardio or intervals 🏃🏼‍♀️, or modeling for small companies.**
 
 ### My Blog Posts:
 <!-- BLOG-POST-LIST:START -->
