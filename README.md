@@ -48,7 +48,7 @@
  
 ### My Stats:
 <p align="left"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&theme=dark&" alt="henreth" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=henreth&theme=dark&show_icons=true&locale=en&layout=compact" alt="henreth" />
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=henreth&theme=dark&show_icons=true&locale=en" alt="henreth" /></p> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diiiianna99&theme=dark&" alt="diiiiana99" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=diiiiana99&theme=dark&show_icons=true&locale=en&layout=compact" alt="diiiiana99" />
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=diiiiana99&theme=dark&show_icons=true&locale=en" alt="diiiiana99" /></p> -->
 </p>
