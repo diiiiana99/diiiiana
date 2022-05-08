@@ -1,4 +1,4 @@
-<img align='center' src="https://avatars.githubusercontent.com/u/93669061?s=400&u=5b10c72c436a41aade40f495476cfb46e312fc7f&v=4" alt="typescript" width="360" height="380"/>
+<img align="center" src="https://avatars.githubusercontent.com/u/93669061?s=400&u=5b10c72c436a41aade40f495476cfb46e312fc7f&v=4" alt="typescript" width="360" height="380"/>
 <h1 align="center">My Name is Dianna Ganiva</h1>
 <h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
 
