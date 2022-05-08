@@ -20,7 +20,7 @@
 
 - ✍️ You can find articles that I have written at: [diiiiana99](https://dev.to/diiiiana99)
 
--💼 You can look at my recent work at: [www.diannaganova.us](http://www.diannaganova.us)
+- 💼 You can look at my recent work at: [www.diannaganova.us](http://www.diannaganova.us)
 
 - 🛠 My last project was: [**Fenty Beauty**](https://github.com/diiiiana99/fenty-beauty-project-react), an e-commerce website inspired by Rihanna's brand with modern features.
 
