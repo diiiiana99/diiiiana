@@ -1,31 +1,63 @@
-# DiannaGanova
-Hey there, I'm Dianna!  
+<h1 align="center">My Name is Dianna Ganiva</h1>
+<h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
 
-I'm a Software Engineer Currently Looking For Employment Opportunities
 
-<img src="{https://cdn-icons-png.flaticon.com/512/61/61109.png}" /> or 
+<h4 align="center">Connect With Me:</h3>
+<div align='center'>
+  <a href="https://www.linkedin.com/in/dianna-ganova-529295189/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://dev.to/diiiiana99">
+     
+</div>
+
+- 🚀 I’m currently learning **TypeScript, Python, Swift**
+
+- ✍️ You can find articles that I have written at: [diiiiana99](https://dev.to/diiiiana99)
+
+- 🛠 My last project was: [**Fenty Beauty**](https://github.com/diiiiana99/fenty-beauty-project-react), an e-commerce website inspired by Rihanna's brand with modern features.
+
+- 💬 Ask me about **JavaScript, React.js, Ruby, Rails, SQL**
+
+- ☀️ More: **When I'm not coding, I'm either playing tennis as I am ex pro 🎾 , doing cardio or intervals 🏃🏼‍♀️, or shopping.**
+
+### My Blog Posts:
+<!-- BLOG-POST-LIST:START -->
+- [Getting Started with React Native for Beginners from a Beginner's Experience](https://dev.to/diiiiana99/getting-started-with-react-native-for-beginners-from-a-beginners-experience-1mkn------2)
+- [What is Ruby and Ruby methods that I found challenging?](https://dev.to/diiiiana99/what-is-ruby-and-ruby-methods-that-i-found-challenging-215d------2)
+- [How Learning React Improved My Skills in JS.](https://dev.to/diiiiana99/how-learning-react-improved-my-skills-in-js-327f------2)
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Stacks and Technologies:</h3>
+<p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+ <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+   <a href="https://devcenter.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> 
+</p>
+
+
+<!--        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+      <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
+       <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="r-studio" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> 
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> -->
  
- https://www.linkedin.com/in/dianna-ganova-529295189/
-
-My Portfolio
- 
- http://www.diannaganova.us/
-
- About Me:
-
-🔭 I’m a Software Engineering graduate of Flatiron School, ex pro tennis player, fashionista and a dog lover
-
-🌱 Currently learning: Graphql, C++ and Python client for my next project
-
-⚡ In my free time, I tinker with new techniques, languages, read tech articles and and study e-commerce websites that are my favorite to recreate them
-
-💬 Ask me about React, SCSS, and GSAP
-
-📫How to reach me: Linkedin BadgeDiscord BadgeGmail Badge
-
-🛠️ Languages and Tools:
-
- git  html5  css  javascript  react scss gsap gatsby nodejs  ruby  rails  postgresql  sqlite  heroku  npm  rspec  google cloud
-
- postman  linux
-
+### My Stats:
+<p align="left"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=henreth&theme=dark&" alt="henreth" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=henreth&theme=dark&show_icons=true&locale=en&layout=compact" alt="henreth" />
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=henreth&theme=dark&show_icons=true&locale=en" alt="henreth" /></p> -->
+</p>
