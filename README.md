@@ -3,9 +3,15 @@ Hey there, I'm Dianna!
 
 I'm a Software Engineer Currently Looking For Employment Opportunities
 
- LinkedIn Badge  https://www.linkedin.com/in/dianna-ganova-529295189/
-My Portfolio http://www.diannaganova.us/
-👨‍💻 About Me:
+LinkedIn Badge  
+ 
+ https://www.linkedin.com/in/dianna-ganova-529295189/
+
+My Portfolio
+ 
+ http://www.diannaganova.us/
+
+ About Me:
 
 🔭 I’m a Software Engineering graduate of Flatiron School, ex pro tennis player, fashionista and a dog lover
 
