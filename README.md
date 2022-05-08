@@ -3,12 +3,16 @@
 <h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
 
 
-<h4 align="center">Connect With Me:</h3>
+<h4 align="center">Let's Connect:</h3>
 <div align='center'>
   <a href="https://www.linkedin.com/in/dianna-ganova-529295189/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://dev.to/diiiiana99">
+          <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="Dev Community Badge"/>
+      </a>
+
+      
      
 </div>
 
