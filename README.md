@@ -1,5 +1,5 @@
 
-<h1 align="center">My Name is Dianna Ganiva</h1>
+<h1 align="center">My Name is Dianna Ganova</h1>
 <h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
 
 
@@ -19,6 +19,8 @@
 - 🚀 I’m currently learning **TypeScript, Python, Swift**
 
 - ✍️ You can find articles that I have written at: [diiiiana99](https://dev.to/diiiiana99)
+
+-💼 You can look at my recent work at: [www.diannaganova.us](http://www.diannaganova.us)
 
 - 🛠 My last project was: [**Fenty Beauty**](https://github.com/diiiiana99/fenty-beauty-project-react), an e-commerce website inspired by Rihanna's brand with modern features.
 
